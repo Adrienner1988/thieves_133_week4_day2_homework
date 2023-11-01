@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "suleiman.db.elephantsql.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Movie DB",
+            "database": "pmchngjo",
+            "username": "pmchngjo",
+            "password": "uEuiLpcEOhIA6YrGO_3hUO55-mNY9uGN"
+        }
+    ]
+}
